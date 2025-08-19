@@ -1,10 +1,10 @@
 # cuda-jupyter-tensorflow
 
 A Jupyter OpenShift AI Image with Tensorflow and CUDA for GPUs.
-Based on the [opendatahub workbench images](https://github.com/opendatahub-io-contrib/workbench-images)
+Based on the [Red Hat Data Services notebook images](https://github.com/red-hat-data-services/notebooks/)
 on GitHub for Jupyter Lab Notebook integration.
 
-Base image: [quay.io/opendatahub-contrib/workbench-images:cuda-jupyter-tensorflow-c9s-py311_2023c_latest](https://github.com/opendatahub-io-contrib/workbench-images)
+Base image: [quay.io/modh/odh-pytorch-notebook:v3-20250808](https://github.com/red-hat-data-services/notebooks/)
 
 | System packages | Description |
 | --- | --- |
